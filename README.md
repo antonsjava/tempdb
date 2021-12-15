@@ -155,7 +155,7 @@ db.close();
 
 ```
    <dependency>
-      <groupId>com.github.antonsjava</groupId>
+      <groupId>io.github.antonsjava</groupId>
       <artifactId>tempdb</artifactId>
       <version>LASTVERSION</version>
    </dependency>
